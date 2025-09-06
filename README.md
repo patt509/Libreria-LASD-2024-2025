@@ -124,8 +124,8 @@ L'applicazione fornisce un'interfaccia interattiva per l'esecuzione selettiva de
 |------------|--------|------|------------|--------------|------|----------------|
 | Inserimento | O(1) amm. | O(1) | O(n) | O(n) | O(log n) | O(log n) |
 | Rimozione | O(n) | O(1) | O(n) | O(n) | O(log n) | O(log n) |
-| Ricerca | O(n) | O(n) | O(n) | O(n) | - | O(n) |
-| Accesso | O(1) | O(n) | - | - | O(1) top | O(1) top |
+| Ricerca | O(n) | O(n) | O(n) | O(n) | O(n) | O(n) |
+| Accesso | O(1) | O(n) | O(n) | O(n) | O(1) top | O(1) top |
 
 ### Credits
 
@@ -257,8 +257,8 @@ The application provides an interactive interface for selective test execution:
 |-----------|--------|------|------------|--------------|------|----------------|
 | Insertion | O(1) amm. | O(1) | O(n) | O(n) | O(log n) | O(log n) |
 | Removal | O(n) | O(1) | O(n) | O(n) | O(log n) | O(log n) |
-| Search | O(n) | O(n) | O(n) | O(n) | - | O(n) |
-| Access | O(1) | O(n) | - | - | O(1) top | O(1) top |
+| Search | O(n) | O(n) | O(n) | O(n) | O(n) | O(n) |
+| Access | O(1) | O(n) | O(n) | O(n) | O(1) top | O(1) top |
 
 ### Credits
 
